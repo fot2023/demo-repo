@@ -1,2 +1,2 @@
 # demo-repo
-this is th edemo repository for software technologies May 2023 course @ Softuni
+this is the demo repository for software technologies May 2023 course @ Softuni
